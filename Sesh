@@ -1,0 +1,1 @@
+git clone --recursive github.com/Dysproh/Chrome3DS.git cd Chrome3DS make
